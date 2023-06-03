@@ -9,5 +9,4 @@ By downloading and/or using the scripts provided, you are agreeing to the follow
 + zz32k ``is not responsible`` for your actions or any damage you may cause as a result of using the scripts.
 + You are ``allowed`` to modify the files.
 + You are ``allowed`` to share all of the files.
-
-borrowing the usage agreement from [UNC0V3R3D]([https://www.google.com](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb))
+> borrowing the usage agreement from [UNC0V3R3D](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
