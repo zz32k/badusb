@@ -1,6 +1,6 @@
 # badusb
 
-<img src="https://github.com/zz32k/badusb/blob/main/flipperbanner.png" height="400" width="1000" >
+<img src="https://github.com/zz32k/badusb/blob/main/flipbanner.png" height="400" width="1000" >
 
 ## Usage Agreement
 
