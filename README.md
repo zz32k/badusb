@@ -1,3 +1,3 @@
 # badusb
 
-<img src="https://github.com/UNC0V3R3D/ressources/blob/main/badusbpicnew.png" height="380" width="1050" >
+<img src="https://github.com/zz32k/badusb/blob/main/badusbbanner.png" height="500" width="1000" >
