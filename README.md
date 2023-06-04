@@ -1,6 +1,7 @@
-# badusb
-
 <img src="https://github.com/zz32k/badusb/blob/main/resources/flipbanner.png" height="400" width="1000" >
+
+> these will work for other devices other than the flipper
+
 
 ## Usage Agreement
 
